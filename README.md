@@ -12,3 +12,5 @@ This repository contains individual zip file for the following data (in csv form
     6. Daily Adjusted Close prices of all the stocks
    
 ### Basically, OHLC , Volume and Adj Close prices data in csv format
+
+Also, I have added a CSV file that contains all the NSE ticker names and their Yahoo Finance equivalent ticker codes. 
